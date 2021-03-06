@@ -17,7 +17,7 @@ which will install libraries in the same folder
 ## To-Do
 
 1. Add scripts send the text to more than one person 
-
+2. Add a ICBM button to spam the person XD
 
 ## Common Commands 
 These are just common commands that help me ;)
