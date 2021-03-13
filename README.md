@@ -1,4 +1,4 @@
-# Good_Morning
+# Twilio-Chat-Bot
 This repository is for sending a daily message _( right now it's a daily quote )_ to any number with whatever text. I am using Twilio's API for this.
 
 ## How to run
