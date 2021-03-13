@@ -14,10 +14,11 @@ This repository is for sending a daily message _( right now it's a daily quote )
 1. Sometimes your functions will not work properly so you might need to run `pip3 install -t ./ twilio datetime boto3` 
 which will install libraries in the same folder
 
-## To-Do
+## To-Do ( Maybe ;) 
 
 1. Add scripts send the text to more than one person 
 2. Add a ICBM button to spam the person XD
+3. Right now I am using the Twilio Sandbox only works for 3 days. 
 
 ## Common Commands 
 These are just common commands that help me ;)
